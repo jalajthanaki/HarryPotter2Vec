@@ -27,4 +27,4 @@ You need to run the `Harrypotter2vec.ipynb` file.
 
 
 # Demo
-<img src="" alt="demo" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/jalajthanaki/HarryPotter2Vec/master/Demo_videos/hp2vec.gif" alt="demo" style="max-width:100%;">
